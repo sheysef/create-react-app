@@ -1,4 +1,6 @@
-# Create React App
+# My first website
+
+I'm trying to build a basic portfolio site for my professional work experience projects. 
 
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
 
